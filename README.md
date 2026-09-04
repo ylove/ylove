@@ -1,6 +1,7 @@
 <!-- Header banner: swap the src for a Photoshop-made banner later (recommended 1280x320). -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Yitz%20Jordan&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Y-LOVE%3A%20Full-stack%20engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Hip-hop%20artist&descSize=20&descAlignY=60&animation=fadeIn" alt="Yitz Jordan" />
+<p align="center"><img width="640" height="300" alt="yitz-github-banner-1" style="margin-bottom:0;" src="https://github.com/user-attachments/assets/c8a49cf1-9d21-483a-9dd1-969b2be499b2" />
+
+ <!-- <img style="margin-top:0;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0f174c&textBg=false&animation=fadeIn" alt="Yitz Jordan" /> -->
 </p>
 
 <p align="center">
@@ -21,13 +22,13 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <h3>🧱 Engineer</h3>
       Full-stack, TypeScript-first.<br/>
       Decades of shipping for brands you know,
-      from hand-rolled JS to multi-agent systems.
+      from hand-rolled Javascript to multi-agent systems.
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <h3>🛡️ Founder</h3>
       Founder &amp; CPO of <a href="https://vouch.media"><b>Vouch Networks</b></a>,<br/>
       building a community safety platform<br/>
@@ -36,8 +37,9 @@
     <td align="center" width="33%">
       <h3>🎤 Artist</h3>
       Two decades as <b>Y-Love</b>, hip-hop artist<br/>
-      and educator on antisemitism,<br/>
-      Black-Jewish history, and media literacy.
+      and inspirational educator on diversity,<br/>
+      Black and Jewish history, media literacy,<br/> and personal safety.<br/>
+      <a href="https://open.spotify.com/artist/36IXY5wweg2GuvQpv25D2X"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -49,7 +51,11 @@
 Right now, what I'm working on:
 
 - **Vouch Networks**, top to bottom: React Native app, Next.js web, Node/Postgres backend, payments and compliance, and every founder job that doesn't fit on a slide.
-- **Agentic systems that run unattended.** Multi-agent workflows in Claude Code with a layered intent doctrine so agents know *why* they're doing something, not just what. Local inference on hardware I built. Hierarchical multi-agent systems. I optimize for reliability, observability, and cost, not demo-day magic.
+- **Agentic systems that run unattended.** Multi-agent workflows in Claude Code with a layered intent doctrine so agents know *why* they're doing something, not just what. Local inference on hardware I built. Hierarchical multi-agent systems. Agents are only as reliable as the prompts underneath them, so that's where I start. I optimize for reliability, observability, and cost, not just demo magic.
+  <br/><br/>
+  <a href="https://www.youtube.com/shorts/tYyFbsbnuAw"><img align="left" width="140" src="https://i.ytimg.com/vi/tYyFbsbnuAw/hqdefault.jpg" alt="Take control of Claude with XML tags" /></a>
+  🎬 **Tip:** [Take control of Claude with XML tags](https://www.youtube.com/shorts/tYyFbsbnuAw) — 1:43 on why Claude responds to structured markup, and how to use verbs as tags to steer its reasoning. The SOAP-era XML instinct turns out to be a 2026 skill.
+  <br clear="all"/>
 - **Marketplace and front-end leadership.** Most recently tech lead on a healthcare marketplace: owned the product surface, cleaned up analytics integrity, kept a cross-functional team shipping.
 - **Legacy rescue.** I've untangled enough hand-rolled front-ends and SOAP-era integrations to know why the modern stack looks the way it does. That's an asset when your codebase has layers.
 
